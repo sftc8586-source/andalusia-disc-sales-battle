@@ -2,7 +2,7 @@
 const http=require('http'),crypto=require('crypto');
 const port=process.env.PORT||3000,pin=process.env.TRAINER_PIN;
 if(!pin){console.error('Set TRAINER_PIN in your hosting environment.');process.exit(1)}
-const phases=['lobby','story','response','results','disc','discresults','reveal','rescue','closing1','closing2','bonus','leaderboard'];
+const phases=['lobby','story','response','results','disc','discresults','reveal','rescue','closing1','closing2','bonus','modelanswer','leaderboard'];
 const newState=()=>({phase:'lobby',code:String(crypto.randomInt(100000,999999)),players:{},selected:[null,null],bonuses:{}});
 let s=newState();
 const answerKey={response:'B',disc:'D'};
