@@ -4,7 +4,7 @@ module.exports=[
     "channel": "WhatsApp",
     "title": "Perang Harga & Kos Tersembunyi",
     "disc": "D",
-    "message": "Saya nampak harga pakej Disember di iklan lain daripada jumlah dalam sebut harga. Kami bercadang ambil bilik berdua. Kalau beza banyak sangat, mungkin saya perlu cari tarikh lain. Pakej mana yang sesuai untuk kami?",
+    "message": "Assalamualaikum. Saya tengok iklan pakej Disember tu harga lain, tapi bila staf kira untuk bilik berdua jadi lain pula. Saya agak keliru. Kalau kami berdua nak pergi, sebenarnya kena sediakan berapa ya?",
     "answers": {
       "A": "Saya ringkaskan dua pakej berdasarkan harga selepas jenis bilik dipilih, hotel dan caj wajib yang ada dalam sebut harga; baki butiran boleh kita sahkan selepas tuan pilih satu.",
       "B": "Saya sediakan jadual dua pakej: harga keseluruhan bagi jenis bilik tuan, hotel, bagasi, perlindungan dan pengecualian; butiran yang belum disahkan akan saya labelkan sebelum tuan bandingkan.",
@@ -26,7 +26,7 @@ module.exports=[
     "channel": "Kaunter",
     "title": "Testimoni vs Bukti Kumpulan",
     "disc": "I",
-    "message": "Saya dah tunjuk video perjalanan pada adik-beradik. Semua berminat, cuma masing-masing tanya bilik dan harga berlainan. Ada enam orang setakat ini, tetapi belum semua beri keputusan. Apa yang boleh saya kongsikan kepada mereka?",
+    "message": "Ha, saya dah tunjuk video umrah tu dekat adik-beradik. Semua macam berminat. Tapi yang seorang nak bilik dua orang, yang lain nak kongsi. Saya pun dah pening nak jawab soalan mereka. Kalau enam orang, macam mana kira?",
     "answers": {
       "A": "Saya kirim testimoni jemaah yang mendapat kebenaran bersama jadual harga mengikut susunan bilik; ahli keluarga boleh semak secara terbuka dalam grup.",
       "B": "Saya boleh susun perbandingan harga bagi enam orang dahulu, kemudian sertakan pengalaman jemaah yang relevan supaya mudah dibentangkan dalam grup.",
@@ -48,7 +48,7 @@ module.exports=[
     "channel": "Telefon",
     "title": "Ibu Uzur & Bantuan Sebenar",
     "disc": "S",
-    "message": "Ibu saya berusia 76 tahun dan berjalan dengan tongkat. Ini kali pertama kami pergi bersama. Saya risau ibu tak larat ikut semua aktiviti, tetapi dia sangat berharap dapat pergi. Apa pilihan yang ada?",
+    "message": "Helo, saya nak tanya sikit. Ibu saya dah 76 tahun, jalan pun pakai tongkat. Dia memang teringin sangat nak pergi. Cuma saya risau kalau dia tak larat nanti. Biasanya kalau macam tu, macam mana ya?",
     "answers": {
       "A": "Saya akan semak bantuan mobiliti dan laluan hotel yang disahkan; sementara itu, saya terangkan cara kumpulan biasanya membantu jemaah berusia dan polisi tangguh tarikh.",
       "B": "Kita semak keadaan mobiliti ibu dan pengaturan tawaf terlebih dahulu, kemudian pilih pakej yang selesa; syarat tukar tarikh saya hantarkan selepas pilihan pakej dibuat.",
@@ -70,7 +70,7 @@ module.exports=[
     "channel": "WhatsApp",
     "title": "Resit Salah & Risiko Caj",
     "disc": "C",
-    "message": "Saya dah bayar deposit minggu lepas. Bila tengok resit, ada satu huruf nama saya tak sama dengan pasport. Tarikh dalam mesej tempahan pula tak serupa dengan resit. Pegawai kata akan semak, tetapi belum ada perkembangan. Macam mana ya?",
+    "message": "Assalamualaikum. Saya baru perasan nama dekat resit tu salah satu huruf. Lagi satu, tarikh dekat resit tak sama dengan yang staf mesej hari tu. Saya dah tanya minggu lepas, belum dapat jawapan lagi. Boleh tolong tengokkan?",
     "answers": {
       "A": "Saya semak nama berdasarkan pasport dan betulkan resit dahulu; tarikh penerbangan kita sahkan sewaktu dokumen perjalanan akhir dikeluarkan.",
       "B": "Saya padankan semua rekod, semak prosedur serta kemungkinan caj pindaan dan berikan pengesahan bertulis sebelum langkah tempahan diteruskan.",
@@ -92,7 +92,7 @@ module.exports=[
     "channel": "Kaunter",
     "title": "Penerbangan Berubah & Kerugian",
     "disc": "D",
-    "message": "Saya dah ambil cuti dan beli tiket sambungan ke KLIA. Tadi kawan beritahu jadual penerbangan umrah kadang-kadang berubah. Kalau berlaku pada tempahan saya, apa pilihan yang ada? Saya perlu susun perjalanan keluarga.",
+    "message": "Maaf ya, saya nak tanya. Saya dah mohon cuti siap-siap, tiket ke KLIA pun dah beli. Kalau flight umrah berubah nanti, macam mana dengan tiket saya tu? Takut pula semua rancangan lari.",
     "answers": {
       "A": "Saya semak jadual penerbangan terkini, pilihan lain yang disahkan dan terma kos sambungan sebelum tuan menambah komitmen perjalanan domestik.",
       "B": "Saya cadangkan dua tarikh penerbangan pilihan lain dahulu, kemudian kita bincang tuntutan tiket domestik selepas tuan putuskan yang sesuai.",
@@ -114,7 +114,7 @@ module.exports=[
     "channel": "Telefon",
     "title": "Keluarga Banyak Keutamaan",
     "disc": "I",
-    "message": "Saya sedang rancang hadiah umrah untuk ayah. Kakak saya lebih suka hotel dekat, abang fikir pasal harga, ayah pula tak gemar jadual terlalu padat. Kami akan berbincang hujung minggu. Awak rasa pakej mana boleh kami pertimbangkan?",
+    "message": "Sebenarnya saya nak belanja ayah pergi umrah. Tapi kakak saya asyik tanya hotel dekat ke tak, abang saya pula kira bajet. Ayah kalau boleh tak nak terlalu penat. Haa, pening juga nak pilih. Awak rasa macam mana?",
     "answers": {
       "A": "Saya sediakan dua pakej dalam format mudah dikongsi, membandingkan hotel, kos penuh dan tahap kesibukan jadual supaya setiap ahli keluarga boleh memilih.",
       "B": "Saya beri satu cadangan utama untuk ayah berasaskan keselesaan, kemudian saya sertakan pilihan lebih murah jika abang mahukan perbandingan.",
@@ -136,7 +136,7 @@ module.exports=[
     "channel": "WhatsApp",
     "title": "Deposit & Kesulitan Kewangan",
     "disc": "S",
-    "message": "Kami sudah bayar deposit, tetapi keadaan kerja suami berubah baru-baru ini. Saya belum pasti kami mampu teruskan pada tarikh asal. Saya belum beritahu anak-anak kerana mereka sudah teruja. Apa pilihan yang mungkin ada?",
+    "message": "Assalamualaikum. Saya nak tanya pasal deposit yang kami dah bayar tu. Kerja suami sekarang tak berapa okay. Kami belum tahu boleh pergi ikut tarikh asal atau tak. Kalau nak tangguh dulu, boleh ke?",
     "answers": {
       "A": "Saya faham keadaan puan. Saya semak terma deposit, pilihan tunda atau batal dan caj berkaitan sebelum meminta puan membuat keputusan lanjut.",
       "B": "Saya boleh mohon pertimbangan khas untuk tangguh tarikh; sementara menunggu jawapan, kita semak tarikh pilihan lain yang sesuai dengan keadaan keluarga.",
@@ -158,7 +158,7 @@ module.exports=[
     "channel": "Kaunter",
     "title": "Hotel Ganti & Akses OKU",
     "disc": "C",
-    "message": "Dalam brosur saya nampak jarak hotel 300 meter. Bila tengok peta, ada beberapa jalan berlainan. Isteri saya menggunakan kerusi roda, jadi saya tertanya-tanya sama ada laluan itu sesuai. Kalau hotel bertukar, bagaimana pula?",
+    "message": "Saya tengok brosur ni tulis hotel 300 meter. Tapi dekat peta macam kena jalan pusing sikit. Isteri saya pakai kerusi roda. Jalan tu okay ke? Kalau tukar hotel nanti, jauh sangat tak?",
     "answers": {
       "A": "Saya semak nama hotel, jarak laluan dan akses kerusi roda yang disahkan, termasuk syarat jika hotel diganti, sebelum puan menjelaskan baki.",
       "B": "Saya boleh tunjukkan lokasi hotel di peta dan pilihan laluan, sementara maklumat akses bilik kita dapatkan daripada hotel sebelum berlepas.",
@@ -180,7 +180,7 @@ module.exports=[
     "channel": "Telefon",
     "title": "Maklumat Bercanggah & Ulasan",
     "disc": "D",
-    "message": "Saya telefon semalam, staf maklumkan tempat untuk 12 haribulan masih ada. Hari ini bila datang, dimaklumkan sudah penuh. Keluarga saya pun sudah berbincang tentang cuti. Apa sebenarnya status tempahan tarikh itu sekarang?",
+    "message": "Hello, saya nak tanya pasal 12 haribulan tu. Semalam orang sini kata masih ada tempat. Hari ni saya telefon, katanya dah penuh. Saya jadi tak faham. Yang mana satu sebenarnya?",
     "answers": {
       "A": "Saya akan semak inventori dan rekod perbualan, kemudian beri tuan satu pegawai rujukan serta masa kemas kini yang dipersetujui bersama.",
       "B": "Saya mohon maaf atas kekeliruan. Saya periksa dua tarikh pilihan lain dahulu dan segera hantarkan pilihan yang tersedia; isu maklumat awal saya susuli kemudian.",
@@ -202,7 +202,7 @@ module.exports=[
     "channel": "WhatsApp",
     "title": "Video Promosi vs Pakej",
     "disc": "I",
-    "message": "Saya tengok video umrah yang dikongsikan, nampak seronok pergi ramai-ramai. Saya sudah ajak sepupu, tetapi ada yang tanya sama ada hotel dan aktiviti dalam video sama dengan pakej yang kami lihat. Apa beza sebenarnya?",
+    "message": "Saya dah hantar video umrah tu dalam grup sepupu. Ramai suka tengok. Tapi ada yang tanya, hotel dalam video tu memang hotel untuk pakej ni ke? Saya pun tak pasti nak jawab. Boleh cerita sikit?",
     "answers": {
       "A": "Saya kongsi testimoni yang dibenarkan dan jadual pakej sebenar; kita bincang perbezaan promosi serta pilihan hotel selepas kumpulan memilih tarikh.",
       "B": "Saya asingkan kandungan promosi daripada butiran pakej yang disahkan, kemudian sediakan satu helaian fakta untuk dikongsi dengan sepupu.",
@@ -224,7 +224,7 @@ module.exports=[
     "channel": "Kaunter",
     "title": "Jemaah Pertama Kali & Panik",
     "disc": "S",
-    "message": "Saya dan suami belum pernah ke luar negara. Bila baca persediaan umrah, ada banyak istilah yang kami kurang faham. Kami juga tertanya-tanya apa perlu dibuat kalau terpisah daripada kumpulan. Boleh terangkan bagaimana perjalanan biasanya diuruskan?",
+    "message": "Maaf, saya nak tanya banyak sikit boleh? Saya dengan suami ni tak pernah naik kapal terbang jauh-jauh. Masa baca pasal umrah, banyak benda kami tak faham. Kalau nanti tertinggal kumpulan, kami kena buat apa?",
     "answers": {
       "A": "Saya terangkan langkah persediaan secara berperingkat, semak kefahaman dan berikan nombor bantuan serta pelan jika jemaah terpisah.",
       "B": "Saya hantar panduan perjalanan dan nombor bantuan lebih awal; ketika taklimat kita boleh bincangkan situasi kecemasan yang paling puan risaukan.",
@@ -246,7 +246,7 @@ module.exports=[
     "channel": "Telefon",
     "title": "Visa Insurans & Penolakan",
     "disc": "C",
-    "message": "Saya sedang semak pakej yang kami bincangkan minggu lepas. Saya perasan maklumat berkaitan visa dan vaksin di beberapa tempat tak sama. Dalam brosur pula ada disebut perlindungan perjalanan, tetapi saya kurang jelas apa maksudnya. Macam mana perkara ini terpakai pada tempahan kami?",
+    "message": "Saya nak tanya pasal pakej minggu lepas tu. Saya baca dekat beberapa tempat, pasal visa dengan vaksin macam tak sama. Lepas tu dekat brosur ada tulis perlindungan perjalanan. Yang tu sebenarnya cover apa ya?",
     "answers": {
       "A": "Saya sediakan syarat visa dan vaksin yang terkini bersama polisi perlindungan, tetapi perincian tuntutan kita semak selepas dokumen permohonan dihantar.",
       "B": "Saya jelaskan perkara yang termasuk dalam pakej, kemudian minta tuan menyemak sumber rasmi sekiranya peraturan berubah menjelang berlepas.",
@@ -268,7 +268,7 @@ module.exports=[
     "channel": "WhatsApp",
     "title": "Tiga Harga Dari Tiga Pegawai",
     "disc": "D",
-    "message": "Saya ada dapat tiga jumlah harga yang berbeza daripada perbualan dengan staf sebelum ini. Mungkin jenis biliknya tak sama. Saya cuma nak tahu pakej yang kami bincangkan itu masih tersedia dan jumlah yang patut saya pertimbangkan sekarang.",
+    "message": "Assalamualaikum. Saya dah tanya beberapa orang staf tentang bilik berdua, tapi harga yang dapat tak sama. Saya takut saya salah faham pakej. Boleh tolong semak yang mana satu untuk tarikh saya?",
     "answers": {
       "A": "Saya mohon maaf dan akan selaraskan tiga sebut harga menjadi satu dokumen sah, termasuk jenis bilik dan masa pengesahan, dengan seorang pegawai rujukan.",
       "B": "Saya pilih sebut harga terkini daripada sistem dan hantar kepada tuan dahulu; perbezaan harga lama akan kami semak jika tuan memerlukannya.",
@@ -290,7 +290,7 @@ module.exports=[
     "channel": "Kaunter",
     "title": "Rombongan Surau & Janji",
     "disc": "I",
-    "message": "Kumpulan surau kami mungkin ada 18 orang. Saya dah maklumkan pada ahli bahawa kita sedang lihat pakej ini, tetapi ada yang bertanya tentang mutawif, bilik dan bantuan untuk jemaah berusia. Saya belum tahu apa nak jawab dalam mesyuarat nanti.",
+    "message": "Saya ni uruskan orang surau. Dalam 18 orang juga yang berminat. Sekarang masing-masing tanya pasal bilik, mutawif, orang tua siapa nak bantu. Saya nak mesyuarat dengan mereka tak lama lagi. Macam mana ya?",
     "answers": {
       "A": "Saya semak skop mutawif, bilik dan bantuan jemaah uzur, kemudian sediakan dokumen bertulis untuk seluruh kumpulan sebelum kutipan bayaran.",
       "B": "Saya susun pertemuan khas bersama wakil surau untuk membincangkan pengurusan jemaah uzur, dan senarai kemudahan akan diedarkan selepas semua bersetuju dengan tarikh.",
@@ -312,7 +312,7 @@ module.exports=[
     "channel": "Telefon",
     "title": "Konflik Keutamaan Keluarga",
     "disc": "S",
-    "message": "Kami sekeluarga sedang pilih tarikh. Isteri mahu bilik berdua, anak cuma boleh cuti sekolah dan ibu berharap hotel tak jauh. Bajet pula ada had. Bila bincang, semua ada pendapat sendiri. Awak boleh bantu kami tengok pilihan yang ada?",
+    "message": "Helo, nak minta pendapat sikit. Isteri saya nak bilik berdua, anak pula cuma boleh pergi masa cuti sekolah. Mak saya nak hotel dekat sikit sebab cepat penat. Bajet kami bukan besar sangat. Awak rasa ada pakej yang okay tak?",
     "answers": {
       "A": "Saya cadangkan dua pakej mengikut bajet dan tarikh dahulu; keperluan hotel serta bilik keluarga kita boleh laraskan selepas mereka memilih pakej asas.",
       "B": "Saya bantu semua ahli meletakkan keutamaan, kemudian beri dua pilihan dengan kos penuh dan perkara yang perlu dipilih jelas supaya mereka boleh berbincang tanpa tekanan.",
