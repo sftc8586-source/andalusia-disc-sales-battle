@@ -8,13 +8,13 @@ module.exports=[
     "answers": {
       "A": "Saya ringkaskan dua pakej berdasarkan harga selepas jenis bilik dipilih, hotel dan caj wajib yang ada dalam sebut harga; baki butiran boleh kita sahkan selepas tuan pilih satu.",
       "B": "Saya sediakan jadual dua pakej: harga keseluruhan bagi jenis bilik tuan, hotel, bagasi, perlindungan dan pengecualian; butiran yang belum disahkan akan saya labelkan sebelum tuan bandingkan.",
-      "C": "Saya sediakan satu pakej paling hampir bajet tuan dengan pecahan kos, lokasi hotel dan senarai pengecualian; selepas tuan semak, saya carikan alternatif kedua jika perlu."
+      "C": "Saya sediakan satu pakej paling hampir bajet tuan dengan pecahan kos, lokasi hotel dan senarai pengecualian; selepas tuan semak, saya carikan pilihan lain kedua jika perlu."
     },
     "correct": "B",
     "explanation": "Meminta keputusan segera dan fakta ringkas. Kunci jawapan: tidak mengelirukan harga bermula dengan kos akhir; urus maklumat belum disahkan. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu perang harga & kos tersembunyi ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Saya tengok harga iklan lain, tapi bila kira semua jadi mahal. Jadi sekarang saya kena pilih yang mana?",
+      "Kalau saya ambil bilik berdua, berapa jumlah yang saya kena bayar? Ada bayaran lain lagi tak?"
     ],
     "modelAnswers": [
       "Tuan perlukan dua pilihan dengan harga yang boleh dibandingkan, bukan harga promosi semata-mata. Saya akan semak sebut harga mengikut jenis bilik, semua caj wajib, hotel dan pengecualian; perkara belum sah saya tandakan jelas, kemudian hantar ringkasan satu skrin.",
@@ -35,8 +35,8 @@ module.exports=[
     "correct": "A",
     "explanation": "Gaya ekspresif meminta bahan sosial dan hubungan; masih perlu harga ikut penghunian serta bukti yang sah. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu testimoni vs bukti kumpulan ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Saya nak cerita pada adik-beradik malam ni. Awak boleh bantu saya terangkan pilihan yang ada?",
+      "Adik saya tak percaya sangat video testimoni. Macam mana saya nak tahu pakej yang kami dapat nanti sama seperti yang ditawarkan?"
     ],
     "modelAnswers": [
       "Saya faham tuan/puan bertanggungjawab kepada enam ahli keluarga. Saya boleh beri testimoni yang dibenarkan untuk dikongsi bersama satu jadual harga berdasarkan bilik berdua atau berkongsi. Yang belum ada pengesahan saya nyatakan, supaya keluarga tidak tersalah faham.",
@@ -57,8 +57,8 @@ module.exports=[
     "correct": "C",
     "explanation": "Keperluan keselamatan, masa membuat keputusan dan bantuan khusus. Elak jaminan penjagaan atau akses tanpa bukti. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu ibu uzur & bantuan sebenar ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Kalau ibu saya tak larat berjalan jauh, macam mana ya?",
+      "Saya takut ibu terpisah atau tak dapat ikut aktiviti. Masa tu siapa boleh kami hubungi?"
     ],
     "modelAnswers": [
       "Saya faham puan takut keselamatan ibu terjejas. Saya akan tanya dahulu keperluan pergerakan beliau, semak laluan hotel, akses kerusi roda atau tongkat dan jenis bantuan yang betul-betul termasuk; saya tidak mahu janji bantuan yang belum disahkan.",
@@ -79,8 +79,8 @@ module.exports=[
     "correct": "B",
     "explanation": "Kesan ralat dokumen awal, nyatakan status semakan serta implikasi caj tanpa membuat janji bahawa pembetulan pasti percuma. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu resit salah & risiko caj ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Nama dekat resit salah satu huruf. Kalau biar macam ni, nanti ada masalah tak?",
+      "Tarikh dekat resit pun lain daripada WhatsApp dulu. Awak boleh tolong semak yang mana betul?"
     ],
     "modelAnswers": [
       "Terima kasih kerana menyedari kesilapan itu awal. Saya akan padankan butiran pasport, resit dan pengesahan perjalanan, laporkan pembetulan kepada pihak berkaitan dan maklumkan caj sebenar jika ada sebelum tuan memberi persetujuan.",
@@ -94,15 +94,15 @@ module.exports=[
     "disc": "D",
     "message": "Saya dah ambil cuti dan beli tiket sambungan ke KLIA. Tadi kawan beritahu jadual penerbangan umrah kadang-kadang berubah. Kalau berlaku pada tempahan saya, apa pilihan yang ada? Saya perlu susun perjalanan keluarga.",
     "answers": {
-      "A": "Saya semak jadual penerbangan terkini, alternatif yang disahkan dan terma kos sambungan sebelum tuan menambah komitmen perjalanan domestik.",
-      "B": "Saya cadangkan dua tarikh penerbangan alternatif dahulu, kemudian kita bincang tuntutan tiket domestik selepas tuan putuskan yang sesuai.",
+      "A": "Saya semak jadual penerbangan terkini, pilihan lain yang disahkan dan terma kos sambungan sebelum tuan menambah komitmen perjalanan domestik.",
+      "B": "Saya cadangkan dua tarikh penerbangan pilihan lain dahulu, kemudian kita bincang tuntutan tiket domestik selepas tuan putuskan yang sesuai.",
       "C": "Saya akan jelaskan status penerbangan dan kemungkinan perubahan, kemudian cadangkan tiket domestik fleksibel sebagai langkah berjaga-jaga."
     },
     "correct": "A",
     "explanation": "Memerlukan kepastian tindakan cepat tetapi tidak boleh menjamin jadual atau pampasan; jelaskan terma penerbangan. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu penerbangan berubah & kerugian ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Saya dah beli tiket untuk ke KLIA. Kalau penerbangan umrah berubah, saya nak buat macam mana?",
+      "Kalau tarikh berubah, boleh saya tukar pakej atau pilih tarikh lain?"
     ],
     "modelAnswers": [
       "Saya akan semak status jadual penerbangan yang terkini sekarang dan berikan dua pilihan yang benar-benar tersedia. Tentang tiket domestik dan hotel transit, saya perlu rujuk terma bertulis—saya tidak mahu memberi janji pampasan yang belum disahkan.",
@@ -123,8 +123,8 @@ module.exports=[
     "correct": "A",
     "explanation": "Keinginan menyatukan keluarga dan bercerita; respons terbaik mesti menggabungkan hubungan sosial dengan fakta konkrit. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu keluarga banyak keutamaan ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Saya nak bincang dengan adik-beradik. Apa pilihan yang boleh saya tunjuk dekat mereka?",
+      "Kalau ayah tak suka jadual yang terlalu padat, pakej mana yang lebih sesuai?"
     ],
     "modelAnswers": [
       "Saya suka rancangan tuan melibatkan seluruh keluarga. Kita rangkum tiga keutamaan—jarak hotel, bajet dan keselesaan ayah—dalam dua pakej yang boleh dibandingkan. Saya sediakan ringkasan mesra keluarga untuk perbincangan esok.",
@@ -139,14 +139,14 @@ module.exports=[
     "message": "Kami sudah bayar deposit, tetapi keadaan kerja suami berubah baru-baru ini. Saya belum pasti kami mampu teruskan pada tarikh asal. Saya belum beritahu anak-anak kerana mereka sudah teruja. Apa pilihan yang mungkin ada?",
     "answers": {
       "A": "Saya faham keadaan puan. Saya semak terma deposit, pilihan tunda atau batal dan caj berkaitan sebelum meminta puan membuat keputusan lanjut.",
-      "B": "Saya boleh mohon pertimbangan khas untuk tangguh tarikh; sementara menunggu jawapan, kita semak tarikh alternatif yang sesuai dengan keadaan keluarga.",
+      "B": "Saya boleh mohon pertimbangan khas untuk tangguh tarikh; sementara menunggu jawapan, kita semak tarikh pilihan lain yang sesuai dengan keadaan keluarga.",
       "C": "Kita semak kontrak tempahan dan jumlah deposit dahulu, kemudian saya rangkum pilihan tangguh yang mungkin supaya puan boleh bincang dengan pasangan."
     },
     "correct": "A",
     "explanation": "Empati serta masa berfikir; jangan anggap refund/pindah tarikh terjamin tanpa semakan kontrak. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu deposit & kesulitan kewangan ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Keadaan kewangan kami dah berubah. Kalau nak tangguh perjalanan, boleh ke?",
+      "Kalau kami tak jadi pergi pada tarikh asal, macam mana dengan deposit yang dah dibayar?"
     ],
     "modelAnswers": [
       "Saya simpati dengan perubahan kewangan keluarga puan. Kita tidak perlu membuat bayaran tambahan sekarang. Saya akan semak tarikh tempahan, resit dan polisi berkaitan tangguh atau batal, kemudian terangkan pilihan serta caj yang mungkin terpakai secara bertulis.",
@@ -167,11 +167,11 @@ module.exports=[
     "correct": "A",
     "explanation": "Bintang hotel tidak sama dengan jarak, laluan atau aksesibiliti. Mesti bezakan bukti dan andaian. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu hotel ganti & akses oku ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Isteri saya guna kerusi roda. Jalan dari hotel ke masjid tu mudah ke untuk dia?",
+      "Kalau hotel yang dijanjikan bertukar, saya nak pastikan isteri masih selesa. Macam mana nak semak?"
     ],
     "modelAnswers": [
-      "Betul puan, status bintang tidak bermakna laluan mudah untuk kerusi roda. Saya akan semak nama hotel, jarak laluan sebenar, aksesibiliti dan dasar pertukaran hotel, kemudian tunjukkan bukti yang boleh puan periksa sebelum bayaran akhir.",
+      "Betul puan, status bintang tidak bermakna laluan mudah untuk kerusi roda. Saya akan semak nama hotel, jarak laluan sebenar, kemudahan untuk kerusi roda dan dasar pertukaran hotel, kemudian tunjukkan bukti yang boleh puan periksa sebelum bayaran akhir.",
       "Jika hotel gantian dicadangkan, kita perlu semak kesesuaian mobiliti isteri puan secara khusus dan terma pertukaran. Saya akan tandakan perkara yang belum disahkan supaya puan tidak bergantung pada andaian."
     ]
   },
@@ -183,17 +183,17 @@ module.exports=[
     "message": "Saya telefon semalam, staf maklumkan tempat untuk 12 haribulan masih ada. Hari ini bila datang, dimaklumkan sudah penuh. Keluarga saya pun sudah berbincang tentang cuti. Apa sebenarnya status tempahan tarikh itu sekarang?",
     "answers": {
       "A": "Saya akan semak inventori dan rekod perbualan, kemudian beri tuan satu pegawai rujukan serta masa kemas kini yang dipersetujui bersama.",
-      "B": "Saya mohon maaf atas kekeliruan. Saya periksa dua tarikh alternatif dahulu dan segera hantarkan pilihan yang tersedia; isu maklumat awal saya susuli kemudian.",
+      "B": "Saya mohon maaf atas kekeliruan. Saya periksa dua tarikh pilihan lain dahulu dan segera hantarkan pilihan yang tersedia; isu maklumat awal saya susuli kemudian.",
       "C": "Saya semak dahulu mengapa maklumat bercanggah supaya jawapan rasmi tepat, kemudian saya hubungi tuan sebaik bahagian tempahan mengesahkan status."
     },
     "correct": "A",
     "explanation": "Tegas dan berorientasi hasil. Jangan menyalahkan pelanggan atau mencipta kekosongan. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu maklumat bercanggah & ulasan ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Semalam kata ada tempat, hari ini kata penuh. Jadi macam mana dengan tarikh yang saya nak tu?",
+      "Keluarga saya dah ambil cuti. Kalau tarikh tu tak ada, awak boleh bantu cari pilihan lain?"
     ],
     "modelAnswers": [
-      "Saya mohon maaf atas maklumat bercanggah. Saya ambil tanggungjawab menyelaraskan kes ini, semak rekod komunikasi serta status tempat yang terkini dan akan beri kemas kini pada masa yang kita persetujui, bersama alternatif yang benar-benar tersedia.",
+      "Saya mohon maaf atas maklumat bercanggah. Saya ambil tanggungjawab menyelaraskan kes ini, semak rekod komunikasi serta status tempat yang terkini dan akan beri kemas kini pada masa yang kita persetujui, bersama pilihan lain yang benar-benar tersedia.",
       "Saya faham keluarga tuan sudah memohon cuti. Saya tidak boleh menjamin tempat tanpa pengesahan. Saya boleh tunjukkan dua pilihan sebenar atau jelaskan jika tiada pilihan sesuai, supaya tuan tidak membuang masa lagi."
     ]
   },
@@ -211,8 +211,8 @@ module.exports=[
     "correct": "B",
     "explanation": "Mahu cerita yang meyakinkan tetapi perlukan bukti dan ketelusan; elakkan gambaran promosi yang mengelirukan. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu video promosi vs pakej ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Hotel dalam video tu sama ke dengan pakej yang kami tengok ni?",
+      "Kalau saya ajak sepupu ramai-ramai, ada tak maklumat yang saya boleh kongsikan dalam grup?"
     ],
     "modelAnswers": [
       "Saya faham puan mahu kongsikan cerita yang membanggakan kepada sepupu. Saya akan asingkan video promosi daripada butiran pakej sebenar: hotel, jadual, perkhidmatan dan jenis bilik yang disahkan, serta hanya gunakan testimoni dengan izin.",
@@ -233,8 +233,8 @@ module.exports=[
     "correct": "A",
     "explanation": "Rasa selamat datang daripada proses jelas, bukan kata-kata kosong. Bersikap sabar terhadap soalan berulang. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu jemaah pertama kali & panik ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Saya tak pernah pergi umrah. Kalau saya tak faham masa taklimat nanti, boleh tanya siapa?",
+      "Kalau saya terpisah daripada kumpulan, apa saya kena buat?"
     ],
     "modelAnswers": [
       "Terima kasih kerana berkongsi kebimbangan. Kita mulakan dengan tiga langkah mudah: dokumen, taklimat dan siapa yang dihubungi jika memerlukan bantuan. Saya akan semak kefahaman tuan/puan satu per satu tanpa tergesa-gesa.",
@@ -255,8 +255,8 @@ module.exports=[
     "correct": "C",
     "explanation": "Mencari ketepatan, bukti, syarat dan pengecualian. Peraturan perjalanan boleh berubah. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu visa insurans & penolakan ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Saya tengok syarat visa dan vaksin dekat tempat lain tak sama. Untuk pakej saya ni macam mana ya?",
+      "Brosur ada sebut perlindungan perjalanan. Kalau jadi masalah sebelum berlepas, apa yang sebenarnya dilindungi?"
     ],
     "modelAnswers": [
       "Terima kasih kerana membuat semakan rasmi. Saya akan periksa syarat visa, vaksin dan dokumen yang berkuat kuasa untuk tarikh perjalanan puan, kemudian bezakan apa yang termasuk dalam pakej dan perlindungan insurans berdasarkan polisi sebenar.",
@@ -277,8 +277,8 @@ module.exports=[
     "correct": "A",
     "explanation": "Pelanggan fokus keputusan segera dan satu pemilik kes. Elak janji harga atau bilik sebelum disahkan. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu tiga harga dari tiga pegawai ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Saya dapat tiga harga lain-lain. Yang mana satu sebenarnya untuk bilik berdua?",
+      "Saya dah bincang dengan keluarga. Kalau nak teruskan, apa yang perlu saya buat sekarang?"
     ],
     "modelAnswers": [
       "Saya mohon maaf kerana tuan menerima tiga harga berlainan. Saya akan selaraskan sebut harga daripada rekod pakej dan jenis bilik yang sama, nyatakan harga yang telah disahkan serta sebab perbezaan angka sebelum tuan perlu membuat keputusan.",
@@ -299,11 +299,11 @@ module.exports=[
     "correct": "A",
     "explanation": "Pelanggan menjaga reputasi sosial kumpulan; padankan empati dengan fakta kontrak bertulis. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu rombongan surau & janji ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Ahli surau dah mula tanya pasal bilik dan mutawif. Saya nak jawab apa pada mereka?",
+      "Ada beberapa jemaah berumur dalam kumpulan kami. Macam mana urusan mereka nanti?"
     ],
     "modelAnswers": [
-      "Saya faham reputasi tuan sebagai wakil 18 jemaah sangat penting. Sebelum kutip bayaran, saya akan sahkan secara bertulis skop mutawif, aturan bilik, akses jemaah uzur dan syarat kumpulan; perkara yang belum termasuk saya tanda jelas.",
+      "Saya faham reputasi tuan sebagai wakil 18 jemaah sangat penting. Sebelum kutip bayaran, saya akan sahkan secara bertulis tugas mutawif, aturan bilik, akses jemaah uzur dan syarat kumpulan; perkara yang belum termasuk saya tanda jelas.",
       "Saya boleh sediakan dokumen ringkas untuk dibentang kepada jawatankuasa surau. Kita pastikan semua ahli tahu apa yang disediakan, apa yang tertakluk kepada perubahan dan siapa yang boleh dihubungi jika timbul pertanyaan."
     ]
   },
@@ -315,17 +315,17 @@ module.exports=[
     "message": "Kami sekeluarga sedang pilih tarikh. Isteri mahu bilik berdua, anak cuma boleh cuti sekolah dan ibu berharap hotel tak jauh. Bajet pula ada had. Bila bincang, semua ada pendapat sendiri. Awak boleh bantu kami tengok pilihan yang ada?",
     "answers": {
       "A": "Saya cadangkan dua pakej mengikut bajet dan tarikh dahulu; keperluan hotel serta bilik keluarga kita boleh laraskan selepas mereka memilih pakej asas.",
-      "B": "Saya bantu semua ahli meletakkan keutamaan, kemudian beri dua pilihan dengan kos penuh dan kompromi jelas supaya mereka boleh berbincang tanpa tekanan.",
+      "B": "Saya bantu semua ahli meletakkan keutamaan, kemudian beri dua pilihan dengan kos penuh dan perkara yang perlu dipilih jelas supaya mereka boleh berbincang tanpa tekanan.",
       "C": "Saya ringkaskan pilihan yang memenuhi dua daripada tiga keutamaan dan cadangkan ketua keluarga menentukan keutamaan terakhir setelah melihat harga."
     },
     "correct": "B",
     "explanation": "Perlu harmoni dan sokongan membuat keputusan, bukan memaksa seorang ahli keluarga menentukan semuanya. Ketiga-tiga respons boleh kedengaran profesional, tetapi pilihan terbaik mengutamakan urutan tindakan, kepastian fakta dan hak pelanggan sebelum komitmen.",
     "closings": [
-      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu konflik keutamaan keluarga ini?”",
-      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
+      "Isteri nak bilik berdua, anak nak pergi masa cuti sekolah, ibu pula nak hotel dekat. Mana satu patut kami pilih dulu?",
+      "Kalau bajet kami tak cukup untuk semua yang kami nak, awak boleh cadangkan pilihan lain tak?"
     ],
     "modelAnswers": [
-      "Saya faham semua ahli keluarga mempunyai keutamaan berbeza. Mari senaraikan perkara wajib bagi setiap orang, kemudian saya tunjuk dua pakej dengan harga penuh serta kompromi tentang hotel, tarikh dan jenis bilik tanpa meminta deposit hari ini.",
+      "Saya faham semua ahli keluarga mempunyai keutamaan berbeza. Mari senaraikan perkara wajib bagi setiap orang, kemudian saya tunjuk dua pakej dengan harga penuh serta pilihan yang perlu dibuat tentang hotel, tarikh dan jenis bilik tanpa meminta deposit hari ini.",
       "Kita tidak perlu memaksa sesiapa membuat keputusan sekarang. Saya boleh beri perbandingan bertulis, masa untuk bincang dan sesi susulan apabila keluarga sudah sepakat tentang keutamaan."
     ]
   }
