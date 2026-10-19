@@ -2,331 +2,331 @@ module.exports=[
   {
     "id": 1,
     "channel": "WhatsApp",
-    "title": "Pelanggan mahu ringkas",
+    "title": "Perang Harga & Kos Tersembunyi",
     "disc": "D",
-    "message": "Saya nak pakej umrah Disember. Masa saya terhad. Tolong berikan tarikh, harga penuh dan lokasi hotel dalam satu mesej. Saya nak bandingkan sebelum putuskan.",
+    "message": "Saya dah banding 3 iklan umrah Disember. Harga bermula RM6,xxx tapi bila tanya bilik berdua, insurans dan bagasi jadi lain. Saya ada 10 minit sahaja. Jangan hantar brosur panjang—saya nak jumlah sebenar, hotel dan apa yang tak termasuk, kalau tak saya cari agensi lain.",
     "answers": {
-      "A": "Saya beri tiga pakej bersama harga bermula dan brosur supaya tuan boleh meneliti.",
-      "B": "Saya ringkaskan dua pilihan mengikut tarikh, jumlah harga termasuk caj wajib, lokasi hotel dan perkara yang tidak termasuk. Tuan utamakan tarikh atau jarak hotel?",
-      "C": "Pakej paling popular biasanya terbaik. Saya cadangkan terus buat tempahan sementara."
+      "A": "Saya boleh beri harga promosi terendah dahulu, dan perincian bilik serta kos tambahan selepas tuan pilih pakej.",
+      "B": "Saya boleh ringkaskan dua pakej dengan harga akhir berdasarkan bilik pilihan, kos tambahan yang disahkan, lokasi hotel dan pengecualian; jika ada angka belum disahkan, saya nyatakan dengan jelas.",
+      "C": "Saya terus cadangkan pakej paling lengkap kerana perbezaannya dengan promosi biasanya kecil; kemudian kita teliti baki kos."
     },
     "correct": "B",
-    "explanation": "Fokus masa, fakta dan keputusan. Bezakan harga penuh daripada harga bermula.",
+    "explanation": "Meminta keputusan segera dan fakta ringkas. Kunci jawapan: tidak mengelirukan harga bermula dengan kos akhir; urus maklumat belum disahkan.",
     "closings": [
-      "Saya hanya ada lima minit. Pilihkan dua pakej yang paling praktikal.",
-      "Agensi lain lebih murah. Terangkan perbezaan secara terus dan ringkas."
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu perang harga & kos tersembunyi ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Baik tuan. Saya semak dua pakej Disember dan hantar perbandingan tarikh, harga penuh serta lokasi hotel dalam satu mesej. Tuan mahu utamakan tarikh atau jarak hotel?",
-      "Memang wajar tuan bandingkan. Saya boleh nyatakan beza harga penuh, lokasi hotel dan perkara yang termasuk secara ringkas supaya keputusan tuan lebih mudah."
+      "Saya faham kebimbangan tuan/puan tentang perang harga & kos tersembunyi. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 2,
     "channel": "Kaunter",
-    "title": "Pelanggan suka bercerita",
+    "title": "Testimoni vs Bukti Kumpulan",
     "disc": "I",
-    "message": "Wah, gambar jemaah Andalusia meriah! Saya teringin ajak kakak dan dua orang kawan. Ada pengalaman menarik yang boleh dikongsi? Tapi kami belum pasti tarikh.",
+    "message": "Saya tengok video jemaah semua gembira. Tapi adik saya kata testimoni mudah direka. Kami 6 orang nak tempah, seorang perlukan bilik dua orang dan yang lain berkongsi. Macam mana saya nak yakinkan mereka tanpa rasa kena jual? Saya nak share dalam group malam ni.",
     "answers": {
-      "A": "Tunjukkan kisah pengalaman jemaah dan suasana kumpulan, kemudian tanya tarikh serta keperluan rombongan.",
-      "B": "Beri jadual penerbangan lengkap dan minta pelanggan memilih tarikh sekarang.",
-      "C": "Terangkan syarat pembatalan terlebih dahulu sebelum menjawab tentang pengalaman."
+      "A": "Kongsi testimoni dengan izin, kemudian sediakan perbandingan bilik, harga mengikut penghunian dan dokumen yang boleh dikongsi dalam kumpulan; ajak mereka bertanya.",
+      "B": "Kongsi beberapa video jemaah dan beri harga pakej seorang dahulu kerana pilihan bilik boleh dimuktamadkan kemudian.",
+      "C": "Hantar surat rasmi dan syarat penuh, kemudian minta seorang wakil keluarga urus semua keputusan."
     },
     "correct": "A",
-    "explanation": "Pelanggan tertarik kisah, suasana dan hubungan sosial; tetap perlukan semakan tarikh.",
+    "explanation": "Gaya ekspresif meminta bahan sosial dan hubungan; masih perlu harga ikut penghunian serta bukti yang sah.",
     "closings": [
-      "Kami mahu pergi bersama kawan tetapi jadual belum sama. Bantu kami mula merancang.",
-      "Kawan saya ragu-ragu. Bagaimana awak yakinkan tanpa berjanji berlebihan?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu testimoni vs bukti kumpulan ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Bagus kalau dapat pergi bersama keluarga dan kawan. Saya kongsi pengalaman jemaah yang mendapat kebenaran, kemudian kita lihat tarikh yang sesuai untuk semua.",
-      "Boleh saya sediakan ringkasan perjalanan untuk dikongsi dalam kumpulan, termasuk anggaran kos sah dan pilihan tarikh?"
+      "Saya faham kebimbangan tuan/puan tentang testimoni vs bukti kumpulan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 3,
     "channel": "Telefon",
-    "title": "Perlu jaminan dan ketenangan",
+    "title": "Ibu Uzur & Bantuan Sebenar",
     "disc": "S",
-    "message": "Saya bawa ibu yang sudah berumur. Saya bimbang dia penat dan terpisah daripada kumpulan. Boleh terangkan bagaimana pihak tuan membantu jemaah seperti ibu saya?",
+    "message": "Ibu saya berusia 76 tahun, berjalan dengan tongkat dan ini umrah pertama. Ejen sebelum ini cuma kata 'jangan risau'. Saya nak tahu kalau ibu penat ketika tawaf, siapa boleh bantu, jarak hotel sebenar berapa dan kalau keadaan tidak sesuai boleh ubah tarikh? Jangan beri janji kosong.",
     "answers": {
-      "A": "Beritahu semua jemaah perlu mengikut jadual yang sama tanpa pengecualian.",
-      "B": "Cadangkan pakej termahal kerana biasanya lebih selesa.",
-      "C": "Dengar kebimbangan, jelaskan bantuan yang benar-benar tersedia, aturan kumpulan dan langkah kecemasan; tanya keperluan ibu."
+      "A": "Saya faham. Biasanya mutawif akan membantu semua jemaah; pakej yang dekat dengan masjid selalunya paling sesuai.",
+      "B": "Saya cadangkan ibu membuat keputusan selepas pemeriksaan kesihatan sahaja; tidak perlu bincang logistik sekarang.",
+      "C": "Saya faham kebimbangan puan. Saya akan semak bantuan yang benar-benar tersedia, jarak dan akses hotel, keperluan mobiliti, serta terma perubahan tarikh secara bertulis sebelum cadangkan pakej."
     },
     "correct": "C",
-    "explanation": "Jawapan C memenuhi keperluan sokongan, kesabaran dan rasa selamat. Jangan janji bantuan tanpa pengesahan.",
+    "explanation": "Keperluan keselamatan, masa membuat keputusan dan bantuan khusus. Elak jaminan penjagaan atau akses tanpa bukti.",
     "closings": [
-      "Ibu saya berjalan perlahan. Apa maklumat yang awak perlukan sebelum cadangkan pakej?",
-      "Jika ibu saya terpisah, proses yang betul bagaimana?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu ibu uzur & bantuan sebenar ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tentang ibu. Boleh saya tahu keadaan mobiliti beliau? Saya akan semak bantuan yang benar-benar disediakan, pengiring kumpulan dan prosedur kecemasan.",
-      "Jika terpisah, ikut saluran bantuan dan nombor hubungan rasmi yang diberikan semasa taklimat. Saya akan sahkan prosedur terkini sebelum tuan memilih pakej."
+      "Saya faham kebimbangan tuan/puan tentang ibu uzur & bantuan sebenar. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 4,
     "channel": "WhatsApp",
-    "title": "Mahukan butiran tepat",
+    "title": "Resit Salah & Risiko Caj",
     "disc": "C",
-    "message": "Sebelum saya bayar deposit, saya perlukan senarai item yang termasuk dan tidak termasuk, syarat pembatalan dan dokumen perjalanan. Ada maklumat bertulis yang boleh saya semak?",
+    "message": "Saya dah bayar deposit. Dalam resit ejaan nama saya tak sama macam pasport, tarikh penerbangan juga berbeza daripada mesej awal. Pegawai kata nanti betulkan. Apa risiko caj pindaan? Saya nak semua disahkan secara bertulis, bukan voice note.",
     "answers": {
-      "A": "Terangkan pakej kami memang selalu mendapat maklum balas baik; deposit boleh dibuat kemudian.",
-      "B": "Hantar senarai bertulis yang disahkan, syarat pembatalan terkini dan dokumen perlu; tawarkan penjelasan satu persatu.",
-      "C": "Balas dengan gambar suasana umrah agar pelanggan lebih yakin."
+      "A": "Maklumat akhir akan disemak sebelum tiket dikeluarkan, jadi tak perlu risau dahulu.",
+      "B": "Terima kasih kerana mengesan perbezaan. Saya semak resit, pasport dan surat pengesahan sekarang, rujuk prosedur pembetulan serta kemungkinan caj, lalu beri pengesahan bertulis sebelum langkah lain.",
+      "C": "Saya terus hantar dokumen yang ada dahulu supaya tuan boleh pilih maklumat mana patut diperbetulkan."
     },
     "correct": "B",
-    "explanation": "Pelanggan mahu bukti bertulis dan ketepatan, bukan pujukan umum.",
+    "explanation": "Kesan ralat dokumen awal, nyatakan status semakan serta implikasi caj tanpa membuat janji bahawa pembetulan pasti percuma.",
     "closings": [
-      "Terangkan perbezaan deposit, baki bayaran dan syarat pembatalan secara tepat.",
-      "Saya jumpa dua angka harga berbeza dalam brosur. Bagaimana awak semak?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu resit salah & risiko caj ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Baik, saya hantar senarai rasmi yang termasuk dan tidak termasuk, syarat pembatalan serta keperluan dokumen. Bahagian mana tuan mahu saya terangkan dahulu?",
-      "Terima kasih kerana menyemak. Saya semak dokumen terkini dan jelaskan perbezaan angka atau syarat secara bertulis sebelum sebarang bayaran."
+      "Saya faham kebimbangan tuan/puan tentang resit salah & risiko caj. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 5,
     "channel": "Kaunter",
-    "title": "Mahukan pilihan segera",
+    "title": "Penerbangan Berubah & Kerugian",
     "disc": "D",
-    "message": "Saya sudah ambil cuti pada minggu pertama Januari. Saya mahu terus tahu pakej yang masih ada tempat, berapa deposit dan apa tindakan hari ini.",
+    "message": "Saya dah ambil cuti dan ada tiket domestik ke KLIA. Kalau penerbangan umrah berubah, saya rugi tiket dan hotel transit. Saya perlu tahu status penerbangan sekarang, pilihan alternatif dan siapa tanggung kos tambahan. Jawab yang boleh disahkan saja.",
     "answers": {
-      "A": "Semak ketersediaan sebenar, jelaskan pakej dan deposit yang sah, kemudian berikan langkah tempahan yang jelas.",
-      "B": "Cerita dahulu semua kelebihan syarikat sejak mula beroperasi.",
-      "C": "Sarankan pelanggan datang minggu depan supaya sempat pertimbangkan."
+      "A": "Saya akan semak status jadual terkini, terangkan bahawa jadual mungkin berubah, rujuk terma berkaitan kos sambungan dan beri alternatif yang disahkan sebelum tuan membuat komitmen lain.",
+      "B": "Saya boleh jamin jadual tidak akan berubah kerana tempahan sudah diterima.",
+      "C": "Saya sarankan tuan beli tiket domestik fleksibel; penerbangan utama akan disahkan dekat tarikh berlepas."
     },
     "correct": "A",
-    "explanation": "Tindakan tepat memerlukan semakan inventori, fakta, dan langkah seterusnya.",
+    "explanation": "Memerlukan kepastian tindakan cepat tetapi tidak boleh menjamin jadual atau pampasan; jelaskan terma penerbangan.",
     "closings": [
-      "Saya mahu tempah hari ini jika tempat ada. Apa tiga perkara yang perlu saya sahkan?",
-      "Jika tarikh itu penuh, beri dua alternatif tanpa membuang masa."
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu penerbangan berubah & kerugian ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya semak tarikh minggu pertama Januari sekarang. Jika masih tersedia, saya jelaskan jumlah bayaran, deposit dan langkah tempahan yang sah.",
-      "Jika pilihan pertama penuh, ini dua tarikh alternatif yang saya telah sahkan bersama perbezaan harga dan tempohnya. Mana satu lebih sesuai?"
+      "Saya faham kebimbangan tuan/puan tentang penerbangan berubah & kerugian. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 6,
     "channel": "Telefon",
-    "title": "Teruja bawa keluarga",
+    "title": "Keluarga Banyak Keutamaan",
     "disc": "I",
-    "message": "Saya nak buat kejutan untuk ayah. Seronok rasanya dapat pergi sekeluarga. Ada cara untuk kami buat persediaan bersama? Saya nak cerita kepada adik-beradik.",
+    "message": "Saya nak buat kejutan umrah untuk ayah. Kakak mahu hotel dekat, abang nak bajet, ayah pula tak suka perjalanan terlalu padat. Saya nak cadangan yang buat semua rasa didengar—tapi esok saya perlu bentangkan pada keluarga, lengkap dengan bukti bukan gambar cantik sahaja.",
     "answers": {
-      "A": "Minta jumlah peserta dan kongsikan idea persediaan keluarga serta maklumat yang boleh disampaikan; semak kesesuaian tarikh dan bajet.",
-      "B": "Terus minta bayaran untuk semua ahli keluarga.",
-      "C": "Katakan pakej paling mahal pasti sesuai untuk keluarga."
+      "A": "Saya cadangkan paket terbaik berdasarkan populariti pelanggan seusia ayah dan sediakan galeri foto.",
+      "B": "Saya beri semua brosur untuk setiap ahli membuat pilihan sendiri, kemudian mereka undi.",
+      "C": "Saya sediakan dua pilihan yang dibandingkan secara mudah—jarak hotel disahkan, jadual, kos penuh dan tempo aktiviti—serta bahan yang sesuai dikongsi supaya keluarga boleh berbincang."
     },
-    "correct": "A",
-    "explanation": "Respon mesra perlu ditukar kepada langkah praktikal, bukannya hanya menyambut keterujaan.",
+    "correct": "C",
+    "explanation": "Keinginan menyatukan keluarga dan bercerita; respons terbaik mesti menggabungkan hubungan sosial dengan fakta konkrit.",
     "closings": [
-      "Bagaimana saya terangkan pilihan kepada keluarga supaya semua rasa dilibatkan?",
-      "Kalau ada ahli keluarga belum bersedia, apa susulan yang tidak mendesak?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu keluarga banyak keutamaan ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Seronok mendengar rancangan hadiah untuk ayah. Mari kita mulakan dengan bilangan ahli keluarga, julat tarikh dan keperluan perjalanan supaya semua boleh turut serta.",
-      "Saya sediakan ringkasan yang mudah dikongsi kepada adik-beradik, kemudian kita aturkan masa untuk menyemak keputusan bersama."
+      "Saya faham kebimbangan tuan/puan tentang keluarga banyak keutamaan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 7,
     "channel": "WhatsApp",
-    "title": "Bimbang bajet bulanan",
+    "title": "Deposit & Kesulitan Kewangan",
     "disc": "S",
-    "message": "Saya memang berhajat ke umrah, tetapi saya perlu berbincang dengan pasangan kerana simpanan kami terhad. Saya takut tersalah pilih pakej dan membebankan keluarga.",
+    "message": "Suami saya baru diberhentikan kerja, tetapi deposit sudah dibayar. Kami mahu tangguh, bukan batalkan jika boleh. Saya takut rugi semua simpanan. Adakah deposit boleh dipindahkan? Jangan suruh saya tambah bayaran selagi tak tahu pilihan kami.",
     "answers": {
-      "A": "Katakan ini peluang sekali seumur hidup dan desak deposit segera.",
-      "B": "Hantar pakej paling mahal sebagai penanda aras.",
-      "C": "Akui kebimbangan dan tawarkan perbandingan kos yang jelas mengikut bajet, tanpa mendesak; beri masa berbincang."
+      "A": "Saya faham keadaan ini. Saya semak kontrak tempahan, syarat penangguhan/pembatalan dan pilihan yang dibenarkan; kemudian terangkan kemungkinan caj secara bertulis tanpa mendesak bayaran tambahan.",
+      "B": "Deposit selalunya tak dipulangkan, jadi lebih baik ikut tarikh asal supaya rugi tak banyak.",
+      "C": "Saya boleh cuba minta pengecualian dahulu dan menjanjikan pindah tarikh jika pengurus setuju."
     },
-    "correct": "C",
-    "explanation": "Pendapatan atau bajet bukan penentu DISC; di sini gaya komunikasi menonjolkan keperluan ketenangan dan sokongan.",
+    "correct": "A",
+    "explanation": "Empati serta masa berfikir; jangan anggap refund/pindah tarikh terjamin tanpa semakan kontrak.",
     "closings": [
-      "Saya perlukan masa seminggu berbincang. Apa maklumat penting yang awak boleh beri?",
-      "Pasangan saya risau kos tersembunyi. Bagaimana awak yakinkan dengan bukti?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu deposit & kesulitan kewangan ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham tuan mahu menjaga kewangan keluarga. Saya boleh hantar pilihan mengikut bajet termasuk semua kos yang boleh disahkan. Tuan boleh berbincang dahulu tanpa tekanan.",
-      "Untuk membantu pasangan tuan menilai, saya sediakan pecahan harga serta apa yang tidak termasuk. Tuan boleh hubungi saya apabila sudah bersedia."
+      "Saya faham kebimbangan tuan/puan tentang deposit & kesulitan kewangan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 8,
     "channel": "Kaunter",
-    "title": "Teliti jarak hotel",
+    "title": "Hotel Ganti & Akses OKU",
     "disc": "C",
-    "message": "Dalam brosur tertulis hotel dekat Masjidil Haram. Berapa meter sebenarnya, laluan bagaimana dan adakah butiran hotel boleh berubah? Saya mahu bukti sebelum bayar.",
+    "message": "Brosur kata hotel 300 meter. Selepas saya semak peta, laluan berjalan kaki nampak jauh dan ada bukit. Isteri guna kerusi roda. Kalau hotel ditukar, adakah setaraf itu termasuk akses kerusi roda? Saya mahu bukti yang boleh disemak sebelum bayaran akhir.",
     "answers": {
-      "A": "Beritahu semua hotel memang dekat tanpa menyatakan jarak.",
-      "B": "Semak maklumat hotel dan jarak daripada sumber terkini, terangkan syarat perubahan dan tunjukkan dokumen yang sah.",
-      "C": "Jelaskan pengalaman ibadah lebih penting daripada jarak hotel."
+      "A": "Bila hotel bertaraf bintang sama, kualiti dan akses biasanya setanding.",
+      "B": "Saya semak nama dan laluan sebenar, aksesibiliti yang disahkan, syarat pertukaran hotel dan pilihan alternatif; saya hantar bukti bertulis serta jelaskan perkara yang belum dapat dijamin.",
+      "C": "Saya sarankan bilik lebih mahal untuk menyelesaikan isu akses, walaupun hotel asal belum dipastikan."
     },
     "correct": "B",
-    "explanation": "Jawapan paling tepat boleh disahkan. Elakkan jaminan hotel atau jarak tanpa dokumen.",
+    "explanation": "Bintang hotel tidak sama dengan jarak, laluan atau aksesibiliti. Mesti bezakan bukti dan andaian.",
     "closings": [
-      "Jika hotel bertukar, bagaimana saya dimaklumkan dan apa yang tertulis dalam terma?",
-      "Saya perlukan maklumat bertulis. Dokumen apa yang boleh awak tunjukkan?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu hotel ganti & akses oku ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Terima kasih kerana teliti. Saya akan semak maklumat jarak dan lokasi hotel daripada dokumen terkini serta jelaskan syarat jika hotel perlu ditukar.",
-      "Saya tidak mahu menjanjikan jarak yang belum disahkan. Ini dokumen hotel dan terma berkaitan; mari kita semak butiran sebelum deposit."
+      "Saya faham kebimbangan tuan/puan tentang hotel ganti & akses oku. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 9,
     "channel": "Telefon",
-    "title": "Mahukan penyelesaian cepat",
+    "title": "Maklumat Bercanggah & Ulasan",
     "disc": "D",
-    "message": "Penerbangan yang saya mahu nampaknya sudah penuh. Saya tidak mahu dengar alasan panjang. Ada alternatif tarikh atau tidak?",
+    "message": "Pegawai lain kata tempat untuk tarikh 12hb masih ada, tapi bila saya datang, tempat penuh. Saya dah minta keluarga ambil cuti. Saya nak satu orang bertanggungjawab dan jawapan sebelum petang. Kalau tak, saya akan tulis ulasan buruk.",
     "answers": {
-      "A": "Jelaskan sejarah penerbangan dan faktor musim secara panjang.",
-      "B": "Minta pelanggan menunggu tanpa anggaran semakan.",
-      "C": "Semak kekosongan sebenar, tawarkan dua tarikh atau laluan alternatif yang relevan serta jelaskan langkah seterusnya."
+      "A": "Terangkan bahawa permintaan tinggi dan pelanggan sepatutnya cepat membayar deposit.",
+      "B": "Minta pelanggan bersabar kerana bahagian tempahan sedang sibuk, dan berikan nombor hotline.",
+      "C": "Mohon maaf atas maklumat bercanggah, semak status inventori dan rekod komunikasi dengan segera, beri seorang pegawai rujukan serta masa kemas kini yang realistik dan alternatif yang disahkan."
     },
     "correct": "C",
-    "explanation": "Pelanggan mahukan hasil cepat; jawab secara terus selepas semakan fakta.",
+    "explanation": "Tegas dan berorientasi hasil. Jangan menyalahkan pelanggan atau mencipta kekosongan.",
     "closings": [
-      "Jika dua tarikh ada, berikan perbezaan harga dan tempoh dalam 30 saat.",
-      "Jika tiada alternatif yang sesuai, bagaimana awak menutup panggilan dengan profesional?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu maklumat bercanggah & ulasan ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham tuan perlukan keputusan pantas. Saya semak dua tarikh alternatif dan terus nyatakan kekosongan, harga penuh serta tindakan seterusnya.",
-      "Jika tiada pilihan yang memenuhi syarat tuan, saya akan maklumkan terus dan tawarkan senarai menunggu atau tarikh lain hanya dengan persetujuan tuan."
+      "Saya faham kebimbangan tuan/puan tentang maklumat bercanggah & ulasan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 10,
     "channel": "WhatsApp",
-    "title": "Suka testimoni jemaah",
+    "title": "Video Promosi vs Pakej",
     "disc": "I",
-    "message": "Saya nampak video kumpulan umrah kamu di media sosial. Meriah! Ada pengalaman jemaah lain yang boleh saya tengok? Saya sedang ajak sepupu.",
+    "message": "Saya nampak influencer tunjuk umrah sangat best, tetapi kawan saya kata video itu bukan hotel sebenar. Ada testimoni yang boleh disahkan? Saya nak tahu beza pengalaman dalam video dengan apa yang pakej kami betul-betul dapat. Saya tak mahu malu selepas ajak 10 sepupu.",
     "answers": {
-      "A": "Hantar semua pautan video tanpa sebarang soalan.",
-      "B": "Kongsi testimoni yang mendapat kebenaran serta ringkaskan suasana program; kemudian tanya tarikh dan jumlah peserta.",
-      "C": "Hanya balas senarai dokumen visa."
+      "A": "Saya boleh beri senarai hotel dan jadual sebenar sahaja; video tidak relevan untuk tempahan.",
+      "B": "Saya kongsi kandungan dengan izin pemilik, bezakan ilustrasi promosi dengan hotel/jadual pakej yang disahkan dan sediakan ringkasan untuk kumpulan sebelum ada janji dibuat.",
+      "C": "Saya sarankan kumpulan ikut pengalaman influencer kerana itu pakej popular yang ramai puas hati."
     },
     "correct": "B",
-    "explanation": "Bina hubungan melalui pengalaman yang relevan tetapi jangan buat testimoni atau dakwaan palsu.",
+    "explanation": "Mahu cerita yang meyakinkan tetapi perlukan bukti dan ketelusan; elakkan gambaran promosi yang mengelirukan.",
     "closings": [
-      "Sepupu saya teruja tetapi belum kenal Andalusia. Apa yang awak akan hantar?",
-      "Bagaimana awak jadikan perbualan ceria ini kepada janji temu yang sesuai?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu video promosi vs pakej ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Terima kasih kerana menonton video kami. Saya boleh kongsikan testimoni jemaah yang mendapat izin, serta maklumat program untuk dikongsi dengan sepupu.",
-      "Boleh saya tahu anggaran bilangan ahli keluarga dan tarikh? Saya sediakan ringkasan yang menarik tetapi tepat untuk dibincangkan bersama."
+      "Saya faham kebimbangan tuan/puan tentang video promosi vs pakej. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 11,
     "channel": "Kaunter",
-    "title": "Perlukan masa buat keputusan",
+    "title": "Jemaah Pertama Kali & Panik",
     "disc": "S",
-    "message": "Ini perjalanan pertama saya ke luar negara. Banyak perkara saya tak tahu. Boleh terangkan perlahan-lahan dan beri saya masa untuk fikir?",
+    "message": "Saya kali pertama naik kapal terbang. Suami pun tak pernah buat umrah. Masa taklimat, banyak istilah kami tak faham. Kalau kami tertinggal kumpulan, tak tahu prosedur bagasi atau telefon rosak, siapa kami patut hubungi? Saya takut orang marah kalau banyak bertanya.",
     "answers": {
-      "A": "Bimbing mengikut langkah mudah, semak kefahaman dan berikan ringkasan bertulis untuk dibincangkan kemudian.",
-      "B": "Beri seluruh syarat dan semua pilihan dengan pantas agar selesai sekali gus.",
-      "C": "Nyatakan pakej akan hilang jika pelanggan tidak membayar hari ini."
+      "A": "Terangkan langkah demi langkah, semak kefahaman, beri senarai kontak kecemasan yang sah dan pelan jika terpisah; tawarkan saluran bertanya sebelum berlepas.",
+      "B": "Hantar manual lengkap 40 halaman supaya semua soalan terjawab sekali gus.",
+      "C": "Yakinkan bahawa semua akan berjalan lancar dan tidak perlu fikir senario kecemasan."
     },
     "correct": "A",
-    "explanation": "Komunikasi menenangkan ialah kunci; jangan jadikan keraguan pelanggan alasan untuk mendesak.",
+    "explanation": "Rasa selamat datang daripada proses jelas, bukan kata-kata kosong. Bersikap sabar terhadap soalan berulang.",
     "closings": [
-      "Apa tiga langkah persediaan pertama bagi jemaah baharu?",
-      "Jika pelanggan masih takut, bagaimana awak membuat susulan yang hormat?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu jemaah pertama kali & panik ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Tak mengapa jika tuan mahu masa. Saya akan terangkan proses persediaan secara berperingkat dan sediakan senarai semak bertulis untuk rujukan.",
-      "Selepas tuan semak bersama keluarga, saya boleh jawab soalan satu per satu. Kita tak perlu putuskan hari ini jika tuan belum bersedia."
+      "Saya faham kebimbangan tuan/puan tentang jemaah pertama kali & panik. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 12,
     "channel": "Telefon",
-    "title": "Peka pada terma dan syarat",
+    "title": "Visa Insurans & Penolakan",
     "disc": "C",
-    "message": "Saya nak pastikan prosedur vaksin, pasport, visa, perlindungan perjalanan dan polisi bayaran balik. Mana yang wajib, mana yang bergantung pada peraturan semasa?",
+    "message": "Saya semak laman rasmi dan ada syarat visa/vaksin yang nampak berubah. Staf sebelum ini kata semuanya termasuk, tetapi brosur tidak jelas perlindungan insurans. Kalau permohonan ditolak, kos mana yang boleh dituntut? Saya mahu rujukan terkini bertulis.",
     "answers": {
-      "A": "Nyatakan semua syarat pasti kekal sama sampai tarikh berlepas.",
-      "B": "Hantar senarai lama kerana pelanggan cuma mahu gambaran.",
-      "C": "Terangkan hanya syarat yang telah disahkan mengikut tarikh perjalanan, rujuk sumber rasmi terkini dan sediakan pautan atau dokumen sokongan."
+      "A": "Berikan jawapan yang pernah digunakan pada musim lepas untuk memudahkan pelanggan.",
+      "B": "Terangkan semuanya termasuk dalam pakej dan penolakan hampir tidak pernah berlaku.",
+      "C": "Semak syarat rasmi terkini mengikut tarikh perjalanan, pecahan visa/perlindungan, pengecualian dan terma jika permohonan gagal; beri rujukan bertulis serta perkara yang belum pasti."
     },
     "correct": "C",
-    "explanation": "Peraturan perjalanan boleh berubah; ketepatan serta sumber terkini lebih penting daripada kepastian palsu.",
+    "explanation": "Mencari ketepatan, bukti, syarat dan pengecualian. Peraturan perjalanan boleh berubah.",
     "closings": [
-      "Apa cara awak menyemak syarat yang mungkin berubah sebelum berlepas?",
-      "Pelanggan meminta jaminan 100%. Bagaimana awak jawab secara berhemah?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu visa insurans & penolakan ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Soalan tuan penting. Saya akan menyemak syarat semasa melalui sumber rasmi dan membezakan perkara yang wajib daripada yang boleh berubah mengikut tarikh.",
-      "Saya tidak boleh menjamin peraturan tidak berubah. Saya boleh berikan rujukan rasmi dan bantu semak semula sebelum tarikh perjalanan."
+      "Saya faham kebimbangan tuan/puan tentang visa insurans & penolakan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 13,
     "channel": "WhatsApp",
-    "title": "Mendesak jawapan pantas",
+    "title": "Tiga Harga Dari Tiga Pegawai",
     "disc": "D",
-    "message": "Saya sudah WhatsApp tiga kali. Saya cuma nak kepastian sama ada bilik berdua tersedia untuk tarikh pilihan saya. Tolong jawab YA atau TIDAK dulu.",
+    "message": "Saya WhatsApp malam tadi, tak dibalas. Sekarang ada tiga versi harga daripada tiga pegawai untuk bilik berdua. Saya tidak mahu ulang cerita. Tolong satu orang beri harga sah, butiran bilik dan bila dapat pengesahan. Saya perlu putuskan hari ini.",
     "answers": {
-      "A": "Mohon maaf, sahkan status bilik dengan pihak berkaitan; jawab tepat bila tersedia dan beri masa semakan jika belum pasti.",
-      "B": "Terangkan semua kategori bilik dahulu sebelum menjawab.",
-      "C": "Balas 'YA' supaya pelanggan tenang walaupun belum semak."
+      "A": "Akui kelewatan dan percanggahan; ambil pemilikan kes, semak satu sebut harga sah bersama status bilik, nyatakan apa yang belum disahkan dan masa susulan konkrit.",
+      "B": "Berikan tawaran terendah supaya pelanggan tidak pergi ke pesaing; semak bilik kemudian.",
+      "C": "Minta pelanggan jelaskan sekali lagi semua mesej untuk menyelaraskan butiran sebelum sebut harga."
     },
     "correct": "A",
-    "explanation": "Hormati keperluan jawapan terus tetapi jangan mengada-adakan kepastian.",
+    "explanation": "Pelanggan fokus keputusan segera dan satu pemilik kes. Elak janji harga atau bilik sebelum disahkan.",
     "closings": [
-      "Jika bilik belum dapat disahkan, apa jawapan ringkas terbaik dalam 20 saat?",
-      "Jika bilik berdua tiada, bagaimana awak tawarkan alternatif tanpa menekan?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu tiga harga dari tiga pegawai ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Baik tuan, saya akan semak status bilik berdua sekarang. Saya tidak mahu beri jawapan YA atau TIDAK sebelum pengesahan diterima.",
-      "Jika bilik berdua tiada, saya boleh tawarkan konfigurasi lain yang tersedia berserta perbezaan kos, dan tuan tentukan yang sesuai."
+      "Saya faham kebimbangan tuan/puan tentang tiga harga dari tiga pegawai. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 14,
     "channel": "Kaunter",
-    "title": "Mahukan suasana mesra",
+    "title": "Rombongan Surau & Janji",
     "disc": "I",
-    "message": "Saya suka bila mutawif dan kumpulan boleh bekerjasama. Saya nak bawa geng surau. Boleh cerita macam mana aktiviti kumpulan dijalankan?",
+    "message": "Kami satu kumpulan surau 18 orang. Saya dah ajak semua sebab dengar ada mutawif khusus dan bilik dekat. Tetapi sebut harga tak nyatakan sama ada kumpulan kami bersama sepanjang masa dan siapa urus jemaah uzur. Kalau saya salah faham, habis reputasi saya.",
     "answers": {
-      "A": "Suruh pelanggan membaca jadual sendiri kerana aktiviti ada dalam brosur.",
-      "B": "Terangkan aktiviti yang benar-benar ditawarkan, pengalaman berkumpulan dan langkah merancang bersama ahli surau.",
-      "C": "Terus beri jadual bayaran tanpa menyambut pertanyaan."
+      "A": "Nyatakan semua rombongan besar biasanya dapat mutawif sendiri dan bilik rapat.",
+      "B": "Akui tanggungjawab wakil kumpulan, semak skop pengiring, pembahagian bilik, bantuan jemaah uzur dan apa yang benar-benar termasuk; beri satu dokumen untuk kumpulan sebelum kutip bayaran.",
+      "C": "Berikan diskaun kumpulan dahulu untuk meredakan kebimbangan; perincian pengiring boleh menyusul."
     },
     "correct": "B",
-    "explanation": "Dengar minat pelanggan terhadap hubungan sosial dan sambungkan kepada maklumat program yang sah.",
+    "explanation": "Pelanggan menjaga reputasi sosial kumpulan; padankan empati dengan fakta kontrak bertulis.",
     "closings": [
-      "Apa cara untuk mengajak satu kumpulan surau tanpa janji yang belum disahkan?",
-      "Kalau bilangan peserta belum tetap, langkah susulan paling sesuai apa?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu rombongan surau & janji ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Menarik rancangan geng surau tuan. Saya terangkan aktiviti berkumpulan yang benar-benar termasuk dalam pakej dan cara kami mengurus kumpulan.",
-      "Jika bilangan ahli belum tetap, saya boleh sediakan maklumat untuk dikongsi dan cadangkan tarikh semakan semula supaya semua boleh memberi maklum balas."
+      "Saya faham kebimbangan tuan/puan tentang rombongan surau & janji. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   },
   {
     "id": 15,
     "channel": "Telefon",
-    "title": "Mahu keputusan bersama keluarga",
+    "title": "Konflik Keutamaan Keluarga",
     "disc": "S",
-    "message": "Saya nak bawa isteri dan anak dewasa. Semua ada pandangan berbeza tentang tarikh dan bajet. Saya tak mahu mereka terasa. Boleh bantu kami bandingkan dengan tenang?",
+    "message": "Isteri saya mahu bilik berdua, anak mahu tarikh cuti sekolah dan ibu saya mahu hotel paling dekat. Bajet kami cukup untuk dua daripada tiga keutamaan itu. Saya tak mahu bergaduh atau dipaksa bayar deposit hari ini. Boleh bantu kami membuat keputusan adil?",
     "answers": {
-      "A": "Cadangkan ketua keluarga buat keputusan segera untuk semua.",
-      "B": "Pilih pakej ikut bajet tertinggi supaya tiada siapa kecewa.",
-      "C": "Dengar keutamaan setiap ahli, sediakan perbandingan ringkas dan cadangkan masa sesuai untuk berbincang bersama tanpa paksaan."
+      "A": "Cadangkan pakej paling mahal supaya semua keutamaan dipenuhi tanpa kompromi.",
+      "B": "Minta ketua keluarga tentukan dahulu keutamaan, kemudian hubungi semula apabila sepakat.",
+      "C": "Bantu keluarga menyenaraikan tiga keutamaan, sediakan dua pilihan dengan kos penuh dan kompromi jelas, berikan masa berbincang serta langkah susulan tanpa tekanan."
     },
     "correct": "C",
-    "explanation": "Utamakan keharmonian dan kebolehjelasan; jangan putuskan bagi pihak keluarga.",
+    "explanation": "Perlu harmoni dan sokongan membuat keputusan, bukan memaksa seorang ahli keluarga menentukan semuanya.",
     "closings": [
-      "Bagaimana awak urus perbualan jika dua ahli keluarga tidak sependapat?",
-      "Bagaimana awak menutup panggilan supaya mereka rasa dibantu, bukan didesak?"
+      "Pelanggan membantah: “Saya dah kecewa dengan jawapan sebelum ini. Apa tindakan spesifik yang awak ambil SEKARANG untuk isu konflik keutamaan keluarga ini?”",
+      "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham setiap ahli keluarga ada keutamaan tersendiri. Mari senaraikan tarikh, bajet dan keselesaan yang paling penting bagi setiap orang.",
-      "Saya boleh sediakan jadual perbandingan dua pakej dan aturkan perbincangan ringkas bersama keluarga, tanpa mendesak sesiapa membuat keputusan."
+      "Saya faham kebimbangan tuan/puan tentang konflik keutamaan keluarga. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
+      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
     ]
   }
 ];
