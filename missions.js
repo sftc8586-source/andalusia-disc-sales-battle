@@ -17,8 +17,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang perang harga & kos tersembunyi. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Tuan perlukan dua pilihan dengan harga yang boleh dibandingkan, bukan harga promosi semata-mata. Saya akan semak sebut harga mengikut jenis bilik, semua caj wajib, hotel dan pengecualian; perkara belum sah saya tandakan jelas, kemudian hantar ringkasan satu skrin.",
+      "Saya hormati masa tuan. Saya tidak mahu membuat perbandingan yang mengelirukan; saya akan susun dua pilihan dengan jumlah kos akhir yang disahkan, jarak hotel dan syarat pakej, kemudian tuan boleh tentukan berdasarkan keutamaan."
     ]
   },
   {
@@ -39,8 +39,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang testimoni vs bukti kumpulan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya faham tuan/puan bertanggungjawab kepada enam ahli keluarga. Saya boleh beri testimoni yang dibenarkan untuk dikongsi bersama satu jadual harga berdasarkan bilik berdua atau berkongsi. Yang belum ada pengesahan saya nyatakan, supaya keluarga tidak tersalah faham.",
+      "Saya cadangkan kita kumpulkan tiga perkara dahulu—bilangan sebenar, susunan bilik dan tarikh. Selepas itu saya sediakan mesej yang mudah diteruskan dalam grup, lengkap dengan fakta pakej dan bukan sekadar testimoni."
     ]
   },
   {
@@ -61,8 +61,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang ibu uzur & bantuan sebenar. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya faham puan takut keselamatan ibu terjejas. Saya akan tanya dahulu keperluan pergerakan beliau, semak laluan hotel, akses kerusi roda atau tongkat dan jenis bantuan yang betul-betul termasuk; saya tidak mahu janji bantuan yang belum disahkan.",
+      "Jika perubahan tarikh diperlukan, saya semak polisi bertulis dan kemungkinan caj terlebih dahulu. Kita boleh bincang dengan tenang bersama keluarga selepas puan menerima butiran bantuan dan kos sebenar."
     ]
   },
   {
@@ -83,8 +83,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang resit salah & risiko caj. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Terima kasih kerana menyedari kesilapan itu awal. Saya akan padankan butiran pasport, resit dan pengesahan perjalanan, laporkan pembetulan kepada pihak berkaitan dan maklumkan caj sebenar jika ada sebelum tuan memberi persetujuan.",
+      "Saya akan sediakan pengesahan pembetulan secara bertulis, termasuk dokumen yang sudah dikemas kini dan perkara yang masih menunggu semakan. Saya tidak boleh menjanjikan pembetulan percuma sebelum syaratnya diperiksa."
     ]
   },
   {
@@ -105,8 +105,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang penerbangan berubah & kerugian. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya akan semak status jadual penerbangan yang terkini sekarang dan berikan dua pilihan yang benar-benar tersedia. Tentang tiket domestik dan hotel transit, saya perlu rujuk terma bertulis—saya tidak mahu memberi janji pampasan yang belum disahkan.",
+      "Saya faham tuan sudah ambil cuti. Saya akan nyatakan apa yang telah disahkan, risiko sambungan perjalanan dan bila saya boleh memberi kemas kini seterusnya, agar tuan boleh putuskan dengan cepat."
     ]
   },
   {
@@ -127,8 +127,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang keluarga banyak keutamaan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya suka rancangan tuan melibatkan seluruh keluarga. Kita rangkum tiga keutamaan—jarak hotel, bajet dan keselesaan ayah—dalam dua pakej yang boleh dibandingkan. Saya sediakan ringkasan mesra keluarga untuk perbincangan esok.",
+      "Sebelum tuan bentangkan kepada keluarga, saya akan bezakan maklumat yang sudah disahkan daripada yang masih bergantung pada tarikh atau jenis bilik. Itu membantu semua ahli berasa didengar tanpa janji kosong."
     ]
   },
   {
@@ -149,8 +149,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang deposit & kesulitan kewangan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya simpati dengan perubahan kewangan keluarga puan. Kita tidak perlu membuat bayaran tambahan sekarang. Saya akan semak tarikh tempahan, resit dan polisi berkaitan tangguh atau batal, kemudian terangkan pilihan serta caj yang mungkin terpakai secara bertulis.",
+      "Saya tahu puan perlukan masa dan kepastian. Setelah semakan selesai, saya akan hantar ringkasan pilihan paling rendah risikonya untuk puan bincang dengan pasangan; keputusan tetap di tangan puan."
     ]
   },
   {
@@ -171,8 +171,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang hotel ganti & akses oku. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Betul puan, status bintang tidak bermakna laluan mudah untuk kerusi roda. Saya akan semak nama hotel, jarak laluan sebenar, aksesibiliti dan dasar pertukaran hotel, kemudian tunjukkan bukti yang boleh puan periksa sebelum bayaran akhir.",
+      "Jika hotel gantian dicadangkan, kita perlu semak kesesuaian mobiliti isteri puan secara khusus dan terma pertukaran. Saya akan tandakan perkara yang belum disahkan supaya puan tidak bergantung pada andaian."
     ]
   },
   {
@@ -193,8 +193,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang maklumat bercanggah & ulasan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya mohon maaf atas maklumat bercanggah. Saya ambil tanggungjawab menyelaraskan kes ini, semak rekod komunikasi serta status tempat yang terkini dan akan beri kemas kini pada masa yang kita persetujui, bersama alternatif yang benar-benar tersedia.",
+      "Saya faham keluarga tuan sudah memohon cuti. Saya tidak boleh menjamin tempat tanpa pengesahan. Saya boleh tunjukkan dua pilihan sebenar atau jelaskan jika tiada pilihan sesuai, supaya tuan tidak membuang masa lagi."
     ]
   },
   {
@@ -215,8 +215,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang video promosi vs pakej. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya faham puan mahu kongsikan cerita yang membanggakan kepada sepupu. Saya akan asingkan video promosi daripada butiran pakej sebenar: hotel, jadual, perkhidmatan dan jenis bilik yang disahkan, serta hanya gunakan testimoni dengan izin.",
+      "Saya boleh sediakan satu helaian perbandingan untuk kumpulan sepupu yang jelas menunjukkan apa yang termasuk dan tidak termasuk. Jika ada ciri dalam video yang tidak termasuk, saya akan nyatakan terus."
     ]
   },
   {
@@ -237,8 +237,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang jemaah pertama kali & panik. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Terima kasih kerana berkongsi kebimbangan. Kita mulakan dengan tiga langkah mudah: dokumen, taklimat dan siapa yang dihubungi jika memerlukan bantuan. Saya akan semak kefahaman tuan/puan satu per satu tanpa tergesa-gesa.",
+      "Jika terpisah daripada kumpulan atau telefon rosak, tuan/puan perlu ada nombor bantuan rasmi dan titik rujukan yang disahkan semasa taklimat. Saya boleh sediakan kad maklumat ringkas untuk disimpan."
     ]
   },
   {
@@ -259,8 +259,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang visa insurans & penolakan. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Terima kasih kerana membuat semakan rasmi. Saya akan periksa syarat visa, vaksin dan dokumen yang berkuat kuasa untuk tarikh perjalanan puan, kemudian bezakan apa yang termasuk dalam pakej dan perlindungan insurans berdasarkan polisi sebenar.",
+      "Saya tidak boleh memberi jaminan keputusan permohonan atau pampasan sebelum meneliti syaratnya. Saya akan beri rujukan terkini dan huraikan risiko serta pilihan yang masih tersedia secara bertulis."
     ]
   },
   {
@@ -281,8 +281,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang tiga harga dari tiga pegawai. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya mohon maaf kerana tuan menerima tiga harga berlainan. Saya akan selaraskan sebut harga daripada rekod pakej dan jenis bilik yang sama, nyatakan harga yang telah disahkan serta sebab perbezaan angka sebelum tuan perlu membuat keputusan.",
+      "Mulai sekarang saya akan menjadi pegawai rujukan untuk pertanyaan ini. Saya maklumkan status bilik yang sah dan waktu susulan yang realistik; saya tidak akan menahan tempat atau menjamin harga sebelum pengesahan diterima."
     ]
   },
   {
@@ -303,8 +303,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang rombongan surau & janji. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya faham reputasi tuan sebagai wakil 18 jemaah sangat penting. Sebelum kutip bayaran, saya akan sahkan secara bertulis skop mutawif, aturan bilik, akses jemaah uzur dan syarat kumpulan; perkara yang belum termasuk saya tanda jelas.",
+      "Saya boleh sediakan dokumen ringkas untuk dibentang kepada jawatankuasa surau. Kita pastikan semua ahli tahu apa yang disediakan, apa yang tertakluk kepada perubahan dan siapa yang boleh dihubungi jika timbul pertanyaan."
     ]
   },
   {
@@ -325,8 +325,8 @@ module.exports=[
       "Pelanggan mencabar: “Kalau perkara itu tidak boleh dijamin atau disahkan hari ini, mengapa saya patut percaya dan apakah pilihan selamat saya?”"
     ],
     "modelAnswers": [
-      "Saya faham kebimbangan tuan/puan tentang konflik keutamaan keluarga. Saya akan semak bukti dan terma yang berkaitan, jelaskan fakta yang disahkan serta perkara yang masih tertangguh. Boleh saya sahkan keutamaan paling penting dahulu supaya tindakan saya tepat?",
-      "Saya tidak akan menjanjikan perkara yang belum disahkan. Saya boleh kemukakan pilihan yang benar-benar tersedia, risiko atau syarat bertulis dan masa kemas kini yang munasabah. Tuan/puan boleh membuat keputusan selepas maklumat lengkap diterima."
+      "Saya faham semua ahli keluarga mempunyai keutamaan berbeza. Mari senaraikan perkara wajib bagi setiap orang, kemudian saya tunjuk dua pakej dengan harga penuh serta kompromi tentang hotel, tarikh dan jenis bilik tanpa meminta deposit hari ini.",
+      "Kita tidak perlu memaksa sesiapa membuat keputusan sekarang. Saya boleh beri perbandingan bertulis, masa untuk bincang dan sesi susulan apabila keluarga sudah sepakat tentang keutamaan."
     ]
   }
 ];
