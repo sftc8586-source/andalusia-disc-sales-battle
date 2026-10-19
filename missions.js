@@ -15,6 +15,10 @@ module.exports=[
     "closings": [
       "Saya hanya ada lima minit. Pilihkan dua pakej yang paling praktikal.",
       "Agensi lain lebih murah. Terangkan perbezaan secara terus dan ringkas."
+    ],
+    "modelAnswers": [
+      "Baik tuan. Saya semak dua pakej Disember dan hantar perbandingan tarikh, harga penuh serta lokasi hotel dalam satu mesej. Tuan mahu utamakan tarikh atau jarak hotel?",
+      "Memang wajar tuan bandingkan. Saya boleh nyatakan beza harga penuh, lokasi hotel dan perkara yang termasuk secara ringkas supaya keputusan tuan lebih mudah."
     ]
   },
   {
@@ -33,6 +37,10 @@ module.exports=[
     "closings": [
       "Kami mahu pergi bersama kawan tetapi jadual belum sama. Bantu kami mula merancang.",
       "Kawan saya ragu-ragu. Bagaimana awak yakinkan tanpa berjanji berlebihan?"
+    ],
+    "modelAnswers": [
+      "Bagus kalau dapat pergi bersama keluarga dan kawan. Saya kongsi pengalaman jemaah yang mendapat kebenaran, kemudian kita lihat tarikh yang sesuai untuk semua.",
+      "Boleh saya sediakan ringkasan perjalanan untuk dikongsi dalam kumpulan, termasuk anggaran kos sah dan pilihan tarikh?"
     ]
   },
   {
@@ -51,6 +59,10 @@ module.exports=[
     "closings": [
       "Ibu saya berjalan perlahan. Apa maklumat yang awak perlukan sebelum cadangkan pakej?",
       "Jika ibu saya terpisah, proses yang betul bagaimana?"
+    ],
+    "modelAnswers": [
+      "Saya faham kebimbangan tentang ibu. Boleh saya tahu keadaan mobiliti beliau? Saya akan semak bantuan yang benar-benar disediakan, pengiring kumpulan dan prosedur kecemasan.",
+      "Jika terpisah, ikut saluran bantuan dan nombor hubungan rasmi yang diberikan semasa taklimat. Saya akan sahkan prosedur terkini sebelum tuan memilih pakej."
     ]
   },
   {
@@ -69,6 +81,10 @@ module.exports=[
     "closings": [
       "Terangkan perbezaan deposit, baki bayaran dan syarat pembatalan secara tepat.",
       "Saya jumpa dua angka harga berbeza dalam brosur. Bagaimana awak semak?"
+    ],
+    "modelAnswers": [
+      "Baik, saya hantar senarai rasmi yang termasuk dan tidak termasuk, syarat pembatalan serta keperluan dokumen. Bahagian mana tuan mahu saya terangkan dahulu?",
+      "Terima kasih kerana menyemak. Saya semak dokumen terkini dan jelaskan perbezaan angka atau syarat secara bertulis sebelum sebarang bayaran."
     ]
   },
   {
@@ -87,6 +103,10 @@ module.exports=[
     "closings": [
       "Saya mahu tempah hari ini jika tempat ada. Apa tiga perkara yang perlu saya sahkan?",
       "Jika tarikh itu penuh, beri dua alternatif tanpa membuang masa."
+    ],
+    "modelAnswers": [
+      "Saya semak tarikh minggu pertama Januari sekarang. Jika masih tersedia, saya jelaskan jumlah bayaran, deposit dan langkah tempahan yang sah.",
+      "Jika pilihan pertama penuh, ini dua tarikh alternatif yang saya telah sahkan bersama perbezaan harga dan tempohnya. Mana satu lebih sesuai?"
     ]
   },
   {
@@ -105,6 +125,10 @@ module.exports=[
     "closings": [
       "Bagaimana saya terangkan pilihan kepada keluarga supaya semua rasa dilibatkan?",
       "Kalau ada ahli keluarga belum bersedia, apa susulan yang tidak mendesak?"
+    ],
+    "modelAnswers": [
+      "Seronok mendengar rancangan hadiah untuk ayah. Mari kita mulakan dengan bilangan ahli keluarga, julat tarikh dan keperluan perjalanan supaya semua boleh turut serta.",
+      "Saya sediakan ringkasan yang mudah dikongsi kepada adik-beradik, kemudian kita aturkan masa untuk menyemak keputusan bersama."
     ]
   },
   {
@@ -123,6 +147,10 @@ module.exports=[
     "closings": [
       "Saya perlukan masa seminggu berbincang. Apa maklumat penting yang awak boleh beri?",
       "Pasangan saya risau kos tersembunyi. Bagaimana awak yakinkan dengan bukti?"
+    ],
+    "modelAnswers": [
+      "Saya faham tuan mahu menjaga kewangan keluarga. Saya boleh hantar pilihan mengikut bajet termasuk semua kos yang boleh disahkan. Tuan boleh berbincang dahulu tanpa tekanan.",
+      "Untuk membantu pasangan tuan menilai, saya sediakan pecahan harga serta apa yang tidak termasuk. Tuan boleh hubungi saya apabila sudah bersedia."
     ]
   },
   {
@@ -141,6 +169,10 @@ module.exports=[
     "closings": [
       "Jika hotel bertukar, bagaimana saya dimaklumkan dan apa yang tertulis dalam terma?",
       "Saya perlukan maklumat bertulis. Dokumen apa yang boleh awak tunjukkan?"
+    ],
+    "modelAnswers": [
+      "Terima kasih kerana teliti. Saya akan semak maklumat jarak dan lokasi hotel daripada dokumen terkini serta jelaskan syarat jika hotel perlu ditukar.",
+      "Saya tidak mahu menjanjikan jarak yang belum disahkan. Ini dokumen hotel dan terma berkaitan; mari kita semak butiran sebelum deposit."
     ]
   },
   {
@@ -159,6 +191,10 @@ module.exports=[
     "closings": [
       "Jika dua tarikh ada, berikan perbezaan harga dan tempoh dalam 30 saat.",
       "Jika tiada alternatif yang sesuai, bagaimana awak menutup panggilan dengan profesional?"
+    ],
+    "modelAnswers": [
+      "Saya faham tuan perlukan keputusan pantas. Saya semak dua tarikh alternatif dan terus nyatakan kekosongan, harga penuh serta tindakan seterusnya.",
+      "Jika tiada pilihan yang memenuhi syarat tuan, saya akan maklumkan terus dan tawarkan senarai menunggu atau tarikh lain hanya dengan persetujuan tuan."
     ]
   },
   {
@@ -177,6 +213,10 @@ module.exports=[
     "closings": [
       "Sepupu saya teruja tetapi belum kenal Andalusia. Apa yang awak akan hantar?",
       "Bagaimana awak jadikan perbualan ceria ini kepada janji temu yang sesuai?"
+    ],
+    "modelAnswers": [
+      "Terima kasih kerana menonton video kami. Saya boleh kongsikan testimoni jemaah yang mendapat izin, serta maklumat program untuk dikongsi dengan sepupu.",
+      "Boleh saya tahu anggaran bilangan ahli keluarga dan tarikh? Saya sediakan ringkasan yang menarik tetapi tepat untuk dibincangkan bersama."
     ]
   },
   {
@@ -195,6 +235,10 @@ module.exports=[
     "closings": [
       "Apa tiga langkah persediaan pertama bagi jemaah baharu?",
       "Jika pelanggan masih takut, bagaimana awak membuat susulan yang hormat?"
+    ],
+    "modelAnswers": [
+      "Tak mengapa jika tuan mahu masa. Saya akan terangkan proses persediaan secara berperingkat dan sediakan senarai semak bertulis untuk rujukan.",
+      "Selepas tuan semak bersama keluarga, saya boleh jawab soalan satu per satu. Kita tak perlu putuskan hari ini jika tuan belum bersedia."
     ]
   },
   {
@@ -213,6 +257,10 @@ module.exports=[
     "closings": [
       "Apa cara awak menyemak syarat yang mungkin berubah sebelum berlepas?",
       "Pelanggan meminta jaminan 100%. Bagaimana awak jawab secara berhemah?"
+    ],
+    "modelAnswers": [
+      "Soalan tuan penting. Saya akan menyemak syarat semasa melalui sumber rasmi dan membezakan perkara yang wajib daripada yang boleh berubah mengikut tarikh.",
+      "Saya tidak boleh menjamin peraturan tidak berubah. Saya boleh berikan rujukan rasmi dan bantu semak semula sebelum tarikh perjalanan."
     ]
   },
   {
@@ -231,6 +279,10 @@ module.exports=[
     "closings": [
       "Jika bilik belum dapat disahkan, apa jawapan ringkas terbaik dalam 20 saat?",
       "Jika bilik berdua tiada, bagaimana awak tawarkan alternatif tanpa menekan?"
+    ],
+    "modelAnswers": [
+      "Baik tuan, saya akan semak status bilik berdua sekarang. Saya tidak mahu beri jawapan YA atau TIDAK sebelum pengesahan diterima.",
+      "Jika bilik berdua tiada, saya boleh tawarkan konfigurasi lain yang tersedia berserta perbezaan kos, dan tuan tentukan yang sesuai."
     ]
   },
   {
@@ -249,6 +301,10 @@ module.exports=[
     "closings": [
       "Apa cara untuk mengajak satu kumpulan surau tanpa janji yang belum disahkan?",
       "Kalau bilangan peserta belum tetap, langkah susulan paling sesuai apa?"
+    ],
+    "modelAnswers": [
+      "Menarik rancangan geng surau tuan. Saya terangkan aktiviti berkumpulan yang benar-benar termasuk dalam pakej dan cara kami mengurus kumpulan.",
+      "Jika bilangan ahli belum tetap, saya boleh sediakan maklumat untuk dikongsi dan cadangkan tarikh semakan semula supaya semua boleh memberi maklum balas."
     ]
   },
   {
@@ -267,6 +323,10 @@ module.exports=[
     "closings": [
       "Bagaimana awak urus perbualan jika dua ahli keluarga tidak sependapat?",
       "Bagaimana awak menutup panggilan supaya mereka rasa dibantu, bukan didesak?"
+    ],
+    "modelAnswers": [
+      "Saya faham setiap ahli keluarga ada keutamaan tersendiri. Mari senaraikan tarikh, bajet dan keselesaan yang paling penting bagi setiap orang.",
+      "Saya boleh sediakan jadual perbandingan dua pakej dan aturkan perbincangan ringkas bersama keluarga, tanpa mendesak sesiapa membuat keputusan."
     ]
   }
 ];
