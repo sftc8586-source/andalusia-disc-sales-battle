@@ -22,7 +22,7 @@ async function resumePlayer(){try{let j=await api('resume',{resumeCode:$('resume
 async function answer(value){try{await api('answer',{answer:value});refresh()}catch(e){error(e)}}
 async function change(p){try{await api('phase',{phase:p});refresh()}catch(e){error(e)}}
 async function select(){try{await api('select',{ids:[$('p1').value,$('p2').value]});refresh()}catch(e){error(e)}}
-async function mark(i){try{await api('bonus',{id:state.selected[i],score:Number($('mark'+i).value)});refresh()}catch(e){error(e)}}
+async function mark(i){try{await api('bonus',{id:state.selected[i],score:Number($('mark'+i).value)});await change(state.phase==='score1'?'answer1':'answer2')}catch(e){error(e)}}
 const story=()=>{let m=current();return '<div class="card"><h2>📨 '+esc(m.channel)+' — '+esc(m.title)+'</h2><p class="small">Baca komunikasi pelanggan dan kenal pasti keperluannya.</p><div class="quote">'+esc(m.message)+'</div></div>'};
 const rescue=()=>{let m=current();return '<div class="card"><h2>✦ RESCUE CARD — '+esc(m.correct)+'</h2><p>'+esc(m.explanation)+'</p><div class="quote">'+esc(m.answers[m.correct])+'</div></div>'};
 const results=s=>'<div class="card"><h2>📊 KEPUTUSAN UNDIAN A/B/C</h2><p><b>'+s.answered+' daripada '+s.count+' peserta telah menjawab</b></p>'+['A','B','C'].map(k=>{let n=s.responseCounts?.[k]||0,p=s.answered?Math.round(n/s.answered*100):0;return '<div style="margin:20px 0"><p><b>Jawapan '+k+'</b> — '+n+' peserta ('+p+'%)</p><div class="progress-track" style="height:22px"><div class="progress-fill" style="width:'+p+'%;background:#b59a68"></div></div></div>'}).join('')+'<p class="small">Jawapan terbaik belum didedahkan. Seterusnya, peserta akan meneka DISC pelanggan.</p></div>';
@@ -42,9 +42,9 @@ if(s.phase==='disc')h+=disc({disc:'X'});
 if(s.phase==='discresults')h+=discResults(s);
 if(s.phase==='reveal')h+=reveal();
 if(s.phase==='rescue')h+=rescue();
-if(['closing1','closing2'].includes(s.phase)){let n=s.phase==='closing1'?1:2;h+='<div class="card"><h2>Live Coaching '+n+'</h2><div class="quote">'+esc(current().closings[n-1])+'</div><p>60 saat untuk menjawab secara lisan.</p></div>'}
+if(['closing1','closing2'].includes(s.phase)){let n=s.phase==='closing1'?1:2;h+='<div class="card"><h2>Live Coaching '+n+'</h2><p><b>Peserta dipanggil: '+esc(s.players.find(p=>p.id===s.selected[n-1])?.name||'Pilih peserta di bawah')+'</b></p><div class="quote">'+esc(current().closings[n-1])+'</div><p>60 saat untuk menjawab secara lisan.</p></div>'}
 if(['closing1','score1','closing2','score2'].includes(s.phase)){let list='<option value="">Pilih peserta</option>'+s.players.map(p=>'<option value="'+p.id+'">'+esc(p.name)+'</option>').join('');h+='<div class="card"><h2>Pilih dua peserta — satu untuk setiap coaching</h2><select id="p1">'+list+'</select><select id="p2">'+list+'</select><button onclick="select()">Simpan Pilihan</button><p>Terpilih: '+s.selected.map(id=>esc(s.players.find(p=>p.id===id)?.name||'—')).join(' / ')+'</p></div>'}
-if(['score1','score2'].includes(s.phase)){let n=s.phase==='score1'?1:2,id=s.selected[n-1],p=s.players.find(x=>x.id===id);h+='<div class="card"><h2>Markah Coaching '+n+' (0–20)</h2><p>'+esc(p?.name||'Sila pilih dua peserta dahulu')+'</p><input id="mark'+(n-1)+'" type="number" value="'+(p?.missionBonuses?.[s.phase]??0)+'" min="0" max="20"><button onclick="mark('+(n-1)+')">Simpan Markah</button></div>'}
+if(['score1','score2'].includes(s.phase)){let n=s.phase==='score1'?1:2,id=s.selected[n-1],p=s.players.find(x=>x.id===id);h+='<div class="card"><h2>Markah Coaching '+n+' (0–20)</h2><p>'+esc(p?.name||'Sila pilih dua peserta dahulu')+'</p><input id="mark'+(n-1)+'" type="number" value="'+(p?.missionBonuses?.[s.phase]??0)+'" min="0" max="20"><button class="primary" onclick="mark('+(n-1)+')">SIMPAN MARKAH &amp; LIHAT CONTOH JAWAPAN →</button></div>'}
 if(s.phase==='answer1')h+=modelAnswer(1);
 if(s.phase==='answer2')h+=modelAnswer(2);
 if(s.phase==='leaderboard')h+=board(s);
